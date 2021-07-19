@@ -1,0 +1,7 @@
+# 210719_TIL
+
+### 오늘 한 일
+
+* [Git cmd SSH keys](https://blog.naver.com/vkfkdto0209/222437634640)
+* [외부 접속 허용 및 접속](https://blog.naver.com/vkfkdto0209/222437634821)
+* input 입력 시 button 활성화
